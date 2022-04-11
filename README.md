@@ -20,6 +20,8 @@
   熟悉微服务架构(SpringCloud、Dubbo)，消息队列  
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
 - full-stack developer
+- 独立游戏开发
+- 画集与脚本
 
 ### 作品列表
 - java(www.oahce.com/java)  
