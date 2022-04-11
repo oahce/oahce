@@ -7,7 +7,17 @@
 #### 技能列表
 - front-end developer
 - back-end developer
-> 111
+  熟悉java语言  
+  熟悉javaWeb框架(SSM)  
+  熟练使用SpringBoot  
+  熟悉项目框架搭建、整合、业务开发等各环节工作流程  
+  熟悉应用缓存技术(EHCache、MEMCached、REDIS等)  
+  熟悉数据存取优化过程(mysql)  
+  熟悉数据安全及传输协议底层原理(网络工程)  
+  熟悉权限框架的应用  
+  熟悉nginx  
+  熟悉微服务架构(SpringCloud、Dubbo)，消息队列  
+  熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
 - full-stack developer
 
 
