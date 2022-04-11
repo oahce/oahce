@@ -24,8 +24,19 @@
 ### 作品列表
 - java(www.oahce.com/java)  
   oa：www.oahce.com/java/oa  
-- cpp
-- cs
-- JavaScript
-- lua
-- other
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+- cpp(www.oahce.com/cpp)  
+  独立游戏(tysej)：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+- cs(www.oahce.com/cs)  
+  wpf：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+  oa：www.oahce.com/java/oa  
+- JavaScript(www.oahce.com/js)  
+- lua(www.oahce.com/lua)  
+- other(www.oahce.com/other)  
