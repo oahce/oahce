@@ -6,7 +6,7 @@
 至少应该先生成一小朵云吧。  
 #### 技能列表
 - front-end developer
-- back-end developer
+- back-end developer  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
   熟练使用SpringBoot  
