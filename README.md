@@ -6,7 +6,7 @@
 至少应该先脚踏实地的生成一小朵云吧。  
 这里记录了从一朵云到万事万物的轨迹...
 ### 技能列表
---
+----
 - front-end developer
 - back-end developer  
   熟悉java语言  
