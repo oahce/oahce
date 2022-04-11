@@ -21,7 +21,7 @@
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
   <span><img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-GIT-1572B6?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>  
 - full-stack developer
