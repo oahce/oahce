@@ -7,7 +7,7 @@
 这里记录了从一朵云到万事万物的轨迹...
 ### 技能列表
 ---
-- **前端开发(front-end developer)**  
+- **web前端开发(front-end developer)**  
   熟悉html5、css(2.1+3)  
   熟悉css预处理  
   熟悉JavaScript语言  
@@ -18,9 +18,8 @@
   ![html5](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
   ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
   ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
-  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
-- **后端开发(back-end developer)**  
+  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)  
+- **web后端开发(back-end developer)**  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
   熟练使用SpringBoot  
@@ -33,12 +32,16 @@
   熟悉微服务架构(SpringCloud、Dubbo)，消息队列  
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
   ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=java&style=flat-square)
-  ![spring](https://img.shields.io/reddit/subreddit-subscribers/spring?color=7B68EE&label=spring&style=flat-square)
-  ![springboot](https://img.shields.io/reddit/subreddit-subscribers/springboot?color=008B8B&label=springboot&style=flat-square)
-  ![mysql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
+  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
 - **全栈开发(full-stack developer)**  
+  ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=java&style=flat-square)
+  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
 - **独立游戏开发**  
+  ![C++](https://img.shields.io/reddit/subreddit-subscribers/c++?color=9932CC&label=c++&style=flat-square)
+  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
 - **画集与平面设计**
 - **模型3d**  
 
