@@ -22,10 +22,10 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
   熟悉css框架与应用  
   熟悉nodejs(c++、前端项目构建与管理)  
   熟悉组件化编程  
-  ![html](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
-  ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
-  ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
-  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)  
+  ![html](https://img.shields.io/reddit/subreddit-subscribers/html?color=FF0000&label=html&style=flat-square)
+  ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=871F78&label=css&style=flat-square)
+  ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=8E236B&label=JavaScript&style=flat-square)
+  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=D9D9F3&label=nodejs&style=flat-square)  
   
 - **web后端开发**  
   熟悉java语言  
@@ -39,29 +39,29 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
   熟悉nginx  
   熟悉微服务架构(SpringCloud、Dubbo)，消息队列  
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
-  ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=java&style=flat-square)
-  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
-  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
+  ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=6B238E&label=java&style=flat-square)
+  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=32CD99&label=mysql&style=flat-square)
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=5959AB&label=JavaScript&style=flat-square)  
   
 - **客户端(pc)开发**  
   windows(10+)  
   熟悉C#语言  
   熟悉WPF框架  
-  ![CShop](https://img.shields.io/badge/-Cshop-E34F26?style=flat-square)
-  ![WPF](https://img.shields.io/reddit/subreddit-subscribers/WPF?color=90EE90&label=WPF&style=flat-square)    
+  ![CShop](https://img.shields.io/badge/-Cshop-2F4F4F?style=flat-square)
+  ![WPF](https://img.shields.io/reddit/subreddit-subscribers/WPF?color=3232CD&label=WPF&style=flat-square)    
   
   macos(bigsur+)  
   熟悉swift语言  
   熟悉框架  
-  ![CShop](https://img.shields.io/badge/-Cshop-E34F26?style=flat-square)  
+  ![CShop](https://img.shields.io/badge/-Cshop-FF00FF?style=flat-square)  
   
 - **移动端开发**
   是对的  
   
 - **独立游戏开发**  
-  ![CPP](https://img.shields.io/reddit/subreddit-subscribers/cpp?color=9932CC&label=cpp&style=flat-square)
-  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
-  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
+  ![CPP](https://img.shields.io/reddit/subreddit-subscribers/cpp?color=97694F&label=cpp&style=flat-square)
+  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=6B8E23&label=mysql&style=flat-square)
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=BC1717&label=JavaScript&style=flat-square)  
   
 - **画集与平面设计**
 
