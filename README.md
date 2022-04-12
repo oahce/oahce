@@ -5,9 +5,10 @@
 如果我要构建一个世界，在万事万物创立之初  
 至少应该先脚踏实地的生成一小朵云吧。  
 这里记录了从一朵云到万事万物的轨迹...
+
 ### 技能列表
 ---
-- **web前端开发(front-end developer)**  
+- **web前端开发**  
   熟悉html5、css(2.1+3)  
   熟悉css预处理  
   熟悉JavaScript语言  
@@ -19,7 +20,8 @@
   ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
   ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
   ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)  
-- **web后端开发(back-end developer)**  
+  
+- **web后端开发**  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
   熟练使用SpringBoot  
@@ -34,15 +36,24 @@
   ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=java&style=flat-square)
   ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
   ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
-- **全栈开发(full-stack developer)**  
-  ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=java&style=flat-square)
-  ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
-  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
+  
+- **客户端(pc)开发**
+
+  熟悉C#语言  
+
+  熟悉
+
+- **移动端开发**
+
+  是对的
+
 - **独立游戏开发**  
   ![CPP](https://img.shields.io/reddit/subreddit-subscribers/cpp?color=9932CC&label=cpp&style=flat-square)
   ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
   ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
+  
 - **画集与平面设计**
+
 - **模型3d**  
 
 ### 作品列表
