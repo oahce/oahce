@@ -16,7 +16,7 @@
   熟悉css框架与应用  
   熟悉nodejs(c++、前端项目构建与管理)  
   熟悉组件化编程  
-  ![html5](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
+  ![html](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
   ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
   ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
   ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)  
@@ -40,7 +40,7 @@
 - **客户端(pc)开发**  
   熟悉C#语言  
   熟悉WPF框架  
-  ![cshop](https://img.shields.io/reddit/subreddit-subscribers/cshop?color=9932CC&label=cshop&style=flat-square)
+  ![C#](https://img.shields.io/reddit/subreddit-subscribers/C#?color=9932CC&label=C#&style=flat-square)
   ![WPF](https://img.shields.io/reddit/subreddit-subscribers/WPF?color=90EE90&label=WPF&style=flat-square)    
   
 - **移动端开发**
