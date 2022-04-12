@@ -10,6 +10,7 @@
 👟 git/maven/gradle/idea/eclipse/vscode/vs/xcode/android studio...  
 👟 blender/FL/ps/ae/procreate/figma...  
 🏡 web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/gamedev/技术支持  
+:smile:  
 
 ### 技能列表
 ---
