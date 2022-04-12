@@ -7,7 +7,19 @@
 这里记录了从一朵云到万事万物的轨迹...
 ### 技能列表
 ---
-- front-end developer
+- front-end developer  
+  html5 css2.1 css3  
+  JavaScript  
+  js框架  
+  css框架  
+  nodejs(cpp、构建与项目管理)  
+  css预处理  
+  组件化编程  
+  <span><img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-1572B6?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>  
 - back-end developer  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
