@@ -8,13 +8,13 @@
 ### 技能列表
 ---
 - **前端开发(front-end developer)**  
-  html5 css2.1 css3  
-  JavaScript  
-  js框架  
-  css框架  
-  nodejs(cpp、构建与项目管理)  
-  css预处理  
-  组件化编程  
+  熟悉html5、css(2.1+3)  
+  熟悉css预处理  
+  熟悉JavaScript语言  
+  熟悉js框架与应用(vue等)  
+  熟悉css框架与应用  
+  熟悉nodejs(c++、前端项目构建与管理)  
+  熟悉组件化编程  
   ![html5](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
   ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
   ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
