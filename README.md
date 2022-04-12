@@ -15,11 +15,11 @@
   nodejs(cpp、构建与项目管理)  
   css预处理  
   组件化编程  
-  <span>
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
-  </span>  
+  ![html5](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=html&style=flat-square)
+  ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
+  ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
+  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=90EE90&label=nodejs&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
 - **后端开发(back-end developer)**  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
@@ -32,11 +32,11 @@
   熟悉nginx  
   熟悉微服务架构(SpringCloud、Dubbo)，消息队列  
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
-  <span><img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JAVA-E34F26?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-GIT-1572B6?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>  
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  
 - **全栈开发(full-stack developer)**  
 - **独立游戏开发**  
 - **画集与平面设计**
