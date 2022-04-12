@@ -15,7 +15,7 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
 ### 技能列表
 ---
 - **web前端开发**  
-  熟悉html5、css(2.1+3)  
+  熟悉html、css(2.1+3)  
   熟悉css预处理(sass、lass)  
   熟悉JavaScript语言  
   熟悉js框架与应用(Augular、React、vue)  
