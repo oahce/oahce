@@ -38,15 +38,11 @@
   ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
   
 - **客户端(pc)开发**
-
   熟悉C#语言  
-
-  熟悉
-
+  熟悉  
 - **移动端开发**
-
-  是对的
-
+  是对的  
+  
 - **独立游戏开发**  
   ![CPP](https://img.shields.io/reddit/subreddit-subscribers/cpp?color=9932CC&label=cpp&style=flat-square)
   ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=90EE90&label=mysql&style=flat-square)
