@@ -41,7 +41,7 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
   熟悉微服务架构下的数据处理(运维基础、shell编程、分布式事务管理等)  
   ![java](https://img.shields.io/reddit/subreddit-subscribers/java?color=6B238E&label=java&style=flat-square)
   ![sql](https://img.shields.io/reddit/subreddit-subscribers/mysql?color=32CD99&label=mysql&style=flat-square)
-  ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=5959AB&label=JavaScript&style=flat-square)  
+  ![lua](https://img.shields.io/reddit/subreddit-subscribers/lua?color=5959AB&label=lua&style=flat-square)  
   
 - **客户端(pc)开发**  
   windows(10+)  
