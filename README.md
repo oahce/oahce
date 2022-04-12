@@ -16,16 +16,17 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
 ---
 - **web前端开发**  
   熟悉html5、css(2.1+3)  
-  熟悉css预处理  
+  熟悉css预处理(sass、lass)  
   熟悉JavaScript语言  
-  熟悉js框架与应用(vue等)  
-  熟悉css框架与应用  
-  熟悉nodejs(c++、前端项目构建与管理)  
+  熟悉js框架与应用(Augular、React、vue)  
+  熟悉css框架与应用(Material-UI、bootstrap、elementUI、ReactStrap...)  
+  熟悉node(前端项目构建与管理、服务端渲染...)  
+  熟悉TypeScript(语法糖)  
   熟悉组件化编程  
   ![html](https://img.shields.io/reddit/subreddit-subscribers/html?color=FF0000&label=html&style=flat-square)
   ![css](https://img.shields.io/reddit/subreddit-subscribers/css?color=871F78&label=css&style=flat-square)
   ![javascript](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=8E236B&label=JavaScript&style=flat-square)
-  ![nodejs](https://img.shields.io/reddit/subreddit-subscribers/nodejs?color=D9D9F3&label=nodejs&style=flat-square)  
+  ![node](https://img.shields.io/reddit/subreddit-subscribers/node?color=D9D9F3&label=node&style=flat-square)  
   
 - **web后端开发**  
   熟悉java语言  
