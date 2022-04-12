@@ -86,4 +86,6 @@
 - lua(www.oahce.com/lua)  
 - other(www.oahce.com/other)  
 
+![](https://activity-graph.herokuapp.com/graph?username=oahce&theme=xcode)
+
 ![hew](https://raw.githubusercontent.com/oahce/Images4blog/main/oahce-imgs/1.png)  
