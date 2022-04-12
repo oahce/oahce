@@ -20,7 +20,7 @@ web商业应用/客户端程序(windows\macos)/移动端应用(android\ios)/game
   熟悉JavaScript语言  
   熟悉js框架与应用(Augular、React、vue)  
   熟悉css框架与应用(Material-UI、bootstrap、elementUI、ReactStrap...)  
-  熟悉node(前端项目构建与管理、服务端渲染...)  
+  熟悉node(项目构建与管理、服务端渲染、后端服务...)  
   熟悉TypeScript(语法糖)  
   熟悉组件化编程  
   ![html](https://img.shields.io/reddit/subreddit-subscribers/html?color=FF0000&label=html&style=flat-square)
