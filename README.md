@@ -7,7 +7,7 @@
 这里记录了从一朵云到万事万物的轨迹...
 ### 技能列表
 ---
-- front-end developer  
+- 前端开发(front-end developer)  
   html5 css2.1 css3  
   JavaScript  
   js框架  
@@ -20,7 +20,7 @@
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)
   </span>  
-- back-end developer  
+- 后端开发(back-end developer)  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
   熟练使用SpringBoot  
@@ -37,9 +37,10 @@
   <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>  
-- full-stack developer
-- 独立游戏开发
-- 画集与脚本
+- 全栈开发(full-stack developer)  
+- 独立游戏开发  
+- 画集与平面设计
+- 模型3d  
 
 ### 作品列表
 ---
