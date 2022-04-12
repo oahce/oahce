@@ -16,9 +16,9 @@
   css预处理  
   组件化编程  
   <span>
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=Java&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
-  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/html?color=9932CC&label=Java&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/css?color=7B68EE&label=css&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=js&style=flat-square)
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
