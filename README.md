@@ -6,9 +6,9 @@
 至少应该先脚踏实地的生成一小朵云吧。  
 这里记录了从一朵云到万事万物的轨迹...
 
-🤙 I’m currently working on school work
-🌱 I’m currently learning Vue.js
-💬 Ask me about anything here
+🤙 I’m currently working on school work  
+🌱 I’m currently learning Vue.js  
+🏡 Ask me about anything here  
 
 ### 技能列表
 ---
