@@ -16,12 +16,13 @@
   css预处理  
   组件化编程  
   <span>
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=9932CC&label=Java&style=flat-square)
   ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
-  <img src="https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square" />
-  <img src="https://img.shields.io/badge/-CSS-DarkOrchid?style=flat-square&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CPP-f03F26?style=flat-square&logo=cpp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>  
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
+  ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/java?color=1&label=Java&style=flat-square)
+  </span>  
 - back-end developer  
   熟悉java语言  
   熟悉javaWeb框架(SSM)  
