@@ -42,10 +42,16 @@
   ![lua](https://img.shields.io/reddit/subreddit-subscribers/JavaScript?color=008B8B&label=JavaScript&style=flat-square)  
   
 - **客户端(pc)开发**  
+  windows(10+)  
   熟悉C#语言  
   熟悉WPF框架  
   ![CShop](https://img.shields.io/badge/-Cshop-E34F26?style=flat-square)
   ![WPF](https://img.shields.io/reddit/subreddit-subscribers/WPF?color=90EE90&label=WPF&style=flat-square)    
+  
+  macos(bigsur+)  
+  熟悉swift语言  
+  熟悉框架  
+  ![CShop](https://img.shields.io/badge/-Cshop-E34F26?style=flat-square)  
   
 - **移动端开发**
   是对的  
