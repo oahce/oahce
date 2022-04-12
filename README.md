@@ -40,7 +40,7 @@
 - **客户端(pc)开发**  
   熟悉C#语言  
   熟悉WPF框架  
-  ![cs](https://img.shields.io/reddit/subreddit-subscribers/cs?color=9932CC&label=cs&style=flat-square)
+  ![c#](https://img.shields.io/reddit/subreddit-subscribers/c#?color=9932CC&label=c#&style=flat-square)
   ![WPF](https://img.shields.io/reddit/subreddit-subscribers/WPF?color=90EE90&label=WPF&style=flat-square)    
   
 - **移动端开发**
